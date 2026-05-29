@@ -1,0 +1,15 @@
+{
+    "name": "quent/evaluation",
+    "autoload": {
+        "psr-4": {
+            "Urssaf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Quentin Beaudiquez",
+            "email": "q.beaudiquez.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}
