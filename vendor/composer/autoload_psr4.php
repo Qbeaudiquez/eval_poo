@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Quent\\Evaluation\\' => array($baseDir . '/src'),
+    'Urssaf\\' => array($baseDir . '/src'),
 );
